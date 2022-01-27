@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://jelenaberber.github.io/caffico.github.io/index.html</loc>
+		<lastmod>2021-12-10</lastmod>
+		<priority>0.95</priority>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>https://jelenaberber.github.io/caffico.github.io/about-us.html</loc> 
+		<lastmod>2021-12-10</lastmod>
+		<priority>0.90</priority> 
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://jelenaberber.github.io/caffico.github.io/gallery.html</loc>
+		<lastmod>2021-12-10</lastmod>
+		<priority>0.85</priority>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>https://jelenaberber.github.io/caffico.github.io/contact.html</loc>
+		<lastmod>2021-12-10</lastmod>
+		<priority>0.80</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+	<url>
+		<loc>https://jelenaberber.github.io/caffico.github.io/about-author.html</loc>
+		<lastmod>2021-12-10</lastmod>
+		<priority>0.75</priority>
+		<changefreq>monthly</changefreq>
+	</url>
+</urlset>

@@ -1,0 +1,139 @@
+@media screen and (max-width:1200px){
+    #nav{
+        display: none;
+    }
+    #navigation{
+        display:block;
+        float: right;
+        width: 100px;
+        padding-top: 20px;
+    }
+    #navigation i{
+        font-size: 30px;
+        color: #994e20;
+    }
+    .left {
+        width: 60%;
+        margin: 0px auto;
+    }
+    .right p{
+        text-align: justify;
+    }
+    .left img{
+        width: 100%;
+    }
+    .right {
+        width: 60%;
+        margin: 20px auto;
+    }
+    .right img{
+        width: 100%;
+    }
+    .align-right{
+        text-align: justify;
+    }
+    #photos{
+        width: 100%;
+    }
+    #about .center-block{
+        display: inline;
+    }
+    #about2 .center-block{
+        display: inline;
+    }
+    #cover{
+        width:100%;
+    }
+    #cover-gallery{
+        width:100%;
+    }
+    #cover-us{
+        width:100%;
+    }
+    #cover-contact{
+        width:100%;
+    }
+    #header{
+        width: 100%;
+    }
+    #logo{
+        width: 30%;
+    }
+    .center-block{
+        width: 100%;
+    }
+    #title{
+        width: 100%;
+    }
+    .row-first{
+        display: inline;
+    }
+    .image{
+        width: 60%;
+        margin: 0px auto;
+    }
+    .image img{
+        width: 100%;
+    }
+    #row-second{
+        display: inline;
+    }
+    .image-middle{
+        width: 50%;
+        margin: 0px auto;
+    }
+    .image-middle img{
+        width: 100%;
+    }
+
+    .author{
+        width: 50%;
+        position: relative;
+        z-index: 5;
+        margin-top: 50px;
+    }
+    .author img{
+        width: 100%;
+        margin: 0px auto;
+    }
+    #contact .center-block{
+        display: inline;
+    }
+    .info{
+        width: 70%;
+        margin: 0px auto;
+    }
+}
+@media screen and (max-width:820px){
+    #title{
+        display: flex;
+        justify-content: space-around;
+    }
+    #photos img{
+        width: 200px;
+    }
+    #futer-main{
+        display: inline;
+        margin: 10px auto;
+    }
+    #futer{
+        width: 100%;
+    }
+    #futer h3{
+        text-align: justify;
+        margin: 0px auto;
+    }
+    #design{
+        margin-top: 10px;
+    }
+    #ideatrans{
+        height: auto;
+    }
+    #transparent .center-block{
+        display: inline;
+    }
+    .text{
+        width: 70%;
+        margin: 0px auto;
+    }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>Vesti kafeterije Caffico</title>
+	<link>https://jelenaberber.github.io/caffico.github.io/index.html</link>
+	<description>RSS za obaveštenja sajta kafeterije Caffico</description>
+	<item>
+		<title>Novi proizvodi</title>
+		<link>https://jelenaberber.github.io/caffico.github.io/index.html</link>  
+		<description> Možete probati naš novi Latte.</description>
+	</item>
+	<item>
+		<title>Nova lokacija</title>
+		<link>https://jelenaberber.github.io/caffico.github.io/index.html</link>  
+		<description>Možete pronaći vašu omiljenu kafeteriju na novoj lokaciji u ulici Ilije Garašanina br. 3.</description>
+	</item>
+	<item>
+		<title>Nedeljna akcija</title>
+		<link>https://jelenaberber.github.io/caffico.github.io/index.html</link>  
+		<description>Ove nedelje pripremili smo specijalne popuste na ceo asortiman.</description>
+	</item>
+</channel>
+</rss>
